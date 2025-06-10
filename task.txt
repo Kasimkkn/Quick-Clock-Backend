@@ -1,0 +1,17 @@
+1. no user msut be registered , it will be created by admin only [✅]
+2. add a feature on admin panel to create a user [✅]
+3. use a range date picker while on applying the leave and on any modules [✅]
+4. Regularization Requests show the timestam when was Requests created [✅]
+5. change the Calendar Ui [ can use big-react-Calendar] [✅]
+
+
+1. Admin Task Tested
+2. Admin Project Tested
+3. Admin Geo Manager
+4. Admin Calendar and Holiday Management Tested
+5. Admin Regularization Requests Tested
+6. Admin Employee Management Tested
+7. Admin Leave Requests tested
+8. Admin Attendance Management Tested
+9. Admin Collaboration Tested 
+10. ALl the admin Dashboard Stats Tested 
